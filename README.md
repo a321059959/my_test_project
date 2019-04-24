@@ -1,2 +1,2 @@
-# my_test_project
-this is a test project
+# ASCII Art
+This is a picture into a character drawing program
