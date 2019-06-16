@@ -1,2 +1,2 @@
 # ASCII Art
-This is a picture into a character drawing program
+Python实现图片转换ASCII码画图
